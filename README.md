@@ -1,3 +1,5 @@
 # E-Commerce-Analytics-RFM-Metod
 Analysis on Ecommerce Dataset using Recency,Frequency & Monetary Method.
-As it is an unsupervisied dataset, Clustering Algorithm is used.
+Objective is to build unsupervised Machine Learning Model which can analyze customer on RFM Approach.
+K-means clustering Algorithm is used for Machine Learning Model.
+
